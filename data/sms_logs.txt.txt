@@ -1,0 +1,37 @@
+Transaction Alert: Rs. 1,500.00 spent at CITY SCHOOL on 01-OCT.
+Transaction Alert: Rs. 45,000.00 spent at UNIVERSITY FEES on 02-OCT.
+Transaction Alert: Rs. 2,500.00 spent at PUNJAB ACADEMY on 03-OCT.
+Transaction Alert: Rs. 2,800.00 spent at COURSERA on 04-OCT.
+Transaction Alert: Rs. 3,500.00 spent at EDX ORG on 05-OCT.
+Transaction Alert: Rs. 1,200.00 spent at UDEMY COURSES on 06-OCT.
+Transaction Alert: Rs. 5,400.00 spent at SHELL on 07-OCT.
+Transaction Alert: Rs. 1,500.00 spent at PSO on 08-OCT.
+Transaction Alert: Rs. 3,200.00 spent at TOTAL FUEL on 09-OCT.
+Transaction Alert: Rs. 4,100.00 spent at PARCO on 10-OCT.
+Transaction Alert: Rs. 350.00 spent at BYKEA RIDE on 11-OCT.
+Transaction Alert: Rs. 1,200.00 spent at UBER on 12-OCT.
+Transaction Alert: Rs. 650.00 spent at INDRIVE on 13-OCT.
+Transaction Alert: Rs. 900.00 spent at CAREEM on 14-OCT.
+Transaction Alert: Rs. 18,500.00 spent at AIRBLUE TICKETS on 15-OCT.
+Transaction Alert: Rs. 1,250.00 spent at FOODPANDA on 16-OCT.
+Transaction Alert: Rs. 850.00 spent at MCDONALDS on 17-OCT.
+Transaction Alert: Rs. 950.00 spent at SAVOUR FOODS on 18-OCT.
+Transaction Alert: Rs. 1,100.00 spent at KFC on 19-OCT.
+Transaction Alert: Rs. 1,450.00 spent at HARDDEES on 20-OCT.
+Transaction Alert: Rs. 600.00 spent at SUBWAY on 21-OCT.
+Transaction Alert: Rs. 2,500.00 spent at MONAL RESTAURANT on 22-OCT.
+Transaction Alert: Rs. 800.00 spent at GLORIA CAFE on 23-OCT.
+Transaction Alert: Rs. 2,100.00 spent at DARAZ on 24-OCT.
+Transaction Alert: Rs. 1,800.00 spent at ELO on 25-OCT.
+Transaction Alert: Rs. 5,500.00 spent at GUL AHMED on 26-OCT.
+Transaction Alert: Rs. 7,200.00 spent at KHAADI on 27-OCT.
+Transaction Alert: Rs. 3,200.00 spent at ALFATAH on 28-OCT.
+Transaction Alert: Rs. 4,500.00 spent at CARREFOUR on 29-OCT.
+Transaction Alert: Rs. 1,100.00 spent at GENERAL STORES on 30-OCT.
+Transaction Alert: Rs. 450.00 spent at CLINIX PHARMACY on 31-OCT.
+Transaction Alert: Rs. 15,000.00 spent at DOCTORS HOSPITAL on 01-OCT.
+Transaction Alert: Rs. 2,200.00 spent at MEDICAL CENTER on 02-OCT.
+Transaction Alert: Rs. 12,000.00 spent at LESCO BILL on 03-OCT.
+Transaction Alert: Rs. 4,500.00 spent at SNGPL GAS on 04-OCT.
+Transaction Alert: Rs. 3,100.00 spent at PTCL INTERNET on 05-OCT.
+Transaction Alert: Rs. 3,500.00 spent at STORM FIBER on 06-OCT.

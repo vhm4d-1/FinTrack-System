@@ -1,0 +1,8 @@
+# Data manipulation and analysis
+pandas
+
+# Graphing and data visualization
+matplotlib
+
+# PDF generation and formatting
+reportlab
