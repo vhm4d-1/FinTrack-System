@@ -16,7 +16,7 @@ class TransactionParser:
         self.category_map = {
             # Education
             'SCHOOL': 'Education', 'UNIVERSITY': 'Education', 'ACADEMY': 'Education', 'COURSERA': 'Education',
-            'EDX': 'Education', 'UDEMY': 'Education'
+            'EDX': 'Education', 'UDEMY': 'Education',
             
             # Fuel & Transport
             'SHELL': 'Fuel', 'PSO': 'Fuel', 'TOTAL': 'Fuel', 'PARCO': 'Fuel', 
